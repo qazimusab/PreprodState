@@ -1,4 +1,3 @@
-__author__ = 'qa185001'
 """`appengine_config` gets loaded when starting a new application instance."""
 import sys
 import os.path
