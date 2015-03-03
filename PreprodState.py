@@ -6,5 +6,4 @@ app = Flask(__name__)
 
 isPreprodDown = False
 
-names = ["Habib", "Okanla"]
 
